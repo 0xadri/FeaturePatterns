@@ -1,0 +1,3 @@
+As a user I can register using my phone number
+As a user I must type a secret code of several digits
+As a user I am directed to the next step after typing the last digit of the code
