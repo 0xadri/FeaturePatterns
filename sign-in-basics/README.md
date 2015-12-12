@@ -1,2 +1,2 @@
-Generic & basic registration process for any web app
+Generic & basic sign-in process for any web app
 
