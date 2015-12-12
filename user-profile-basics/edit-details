@@ -1,0 +1,8 @@
+As a user I must be able to edit my username
+As a user I must be able to edit my firstname & lastname
+As a user I must be able to edit my location
+As a user I must be able to edit my date of birth
+As a user I must be able to edit my address
+As a user I must be able to edit my job title
+As a user I must be able to edit my profile picture
+As a user I must be able to save my edits in one click: this will then redirect me to the “read view”
