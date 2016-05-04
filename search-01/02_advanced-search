@@ -1,0 +1,4 @@
+As a user, I can access the advanced search via a link accessible at all times.
+As a user, I can access the advanced search via a link on the search result page.
+As a user, I want the advanced search (kind of facet) to have different filters  (i.e. last name, date range, status)
+As a user, I want the advanced search (kind of facet) filters to use the relevant UI patterns (i.e. text box, checkbox, radio button, range selector)
