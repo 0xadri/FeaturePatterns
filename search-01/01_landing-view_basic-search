@@ -1,0 +1,4 @@
+As a user, I can access the basic search at all times.
+As a user, I can enter only enter text in a search box when using the basic search.
+As a user, I want to be redirected to a search result page when clicking the search button.
+As a user, I want to be redirected to an advanced search page when clicking the "switch to advanced search" link.
