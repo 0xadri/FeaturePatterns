@@ -1,0 +1,4 @@
+As a user, I want to be redirected to the same result page whether I searched with the basic or advanced search.
+As a user, I can see all the relevant results in a grid by default.
+As a user, I can switch to a list view of the results.
+As a user, When click on search, remove previous results in page if any.
