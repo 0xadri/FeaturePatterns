@@ -1,0 +1,2 @@
+As a user, if logged out but being a registered user, if I try to sign up to the newsletter via a form where I share my email address, I receive an email telling me to log in to change this setting.
+As a user, if logged in (hence registered user), I want to be able to change my email notification settings (i.e. newsletter).
