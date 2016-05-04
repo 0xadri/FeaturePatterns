@@ -1,0 +1,8 @@
+As a user I can go through the first step of the sign-in process using my email address & password
+As a user I can tick a “remember me” checkbox
+As a user I can click on a button to go to the next step
+As a user I can click on a “password forgotten link” if needed
+As a user I can click on a “register link” if needed
+
+As a user I want to receive a secret code via sms in order to go through the second step of the authentication process.
+As a user I can complete the authentication by entering the secret code that was to be sent to me via sms.
