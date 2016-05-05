@@ -1,0 +1,5 @@
+As a user I can register using my email address
+As a user I must type a password or generate a strong password automatically.
+As a user I must type a confirmation password
+As a user I can see how strong my currently typed password is (i.e. indicator next to password field).
+As a user I can click on a button to go to the next step 
