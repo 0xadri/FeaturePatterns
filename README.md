@@ -28,6 +28,16 @@ Things are kept very simple for now, so only very generic personas are used if a
 
 ---
 
+## Why?
+
+Tools to build web apps & apps is constantly changing.
+
+However, our requirements as users are changing more slowly. We can recognize patterns even across different hardware & software: you probably need to authenticate yourself when accessing your email, your mobile, your laptop, your car even maybe?
+
+The goal here is to find & write as many common features (patterns) as possible. Help anyone begining a new project, or creating a new feature to start faster.
+
+---
+
 ## Keeping things simple
 
 Things are kept as simple as possible for now: only text is used.
