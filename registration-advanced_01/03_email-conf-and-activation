@@ -1,0 +1,4 @@
+As a user I want to have a clear text in the confirmation email.
+As a user I want to be able to activate my account by clicking on the link in the email.
+As a user I want to be redirected to an account activation confirmation page.
+As a user I can click on a link to setup a 2-step authentication.
